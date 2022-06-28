@@ -72,7 +72,6 @@ VALUES
     ('10', '1', '1/11/2021  18:50:20', '10km', '10minutes', 'null');
 
 -- for pizza_names table
--- I tried to create the table here, I am tired :D
 
 DROP TABLE IF EXISTS pizza_names;
 CREATE TABLE pizza_names(
